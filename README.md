@@ -1,4 +1,4 @@
-# machine-learning
+# Machine-Learning
 Machine Learning course at CE@SUT
 
 
