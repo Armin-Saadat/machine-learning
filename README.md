@@ -15,5 +15,5 @@ Machine Learning course at CE@SUT
 - **Factorization Machines (FM)**
 - **Field Weighted Factorization Machines (FwFMs)** 
 
-Achieved state-of-the-art results.
+Achieved better results than classical methods.
 
