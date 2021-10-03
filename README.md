@@ -11,7 +11,7 @@ Machine Learning course at CE@SUT
 - XGBoost 
 - Random Forest<br />
 
-### Profesional Methods:
+### Professional Methods:
 - **Factorization Machines (FM)**
 - **Field Weighted Factorization Machines (FwFMs)** 
 
